@@ -82,4 +82,6 @@ reshero-element{height: 300px; background-image: "ocean.jpg"; background-size: 2
 
 form{width: 60%; grid-gap: 1em; columns{width: 10em;}}
 
-reshero{background-size: 100% 10%;}
+reshero-element{background-size: 100% 10%;}
+
+video{float: right; margin: .2em;}
